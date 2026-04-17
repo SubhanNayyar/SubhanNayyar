@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Subhan Nayyar 👋
 
-<!--
-**SubhanNayyar/SubhanNayyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.S. Artificial Intelligence | Retail Operations Supervisor
+**Based in Mississauga, ON (Permanent Resident)**
 
-Here are some ideas to get you started:
+I am a technical professional at the intersection of **AI Research** and **Operational Leadership**. My work focuses on bridging the gap between complex machine learning architectures and real-world enterprise efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Key Technical Domains
+* **Reinforcement Learning:** Autonomous agent training using DDQN.
+* **Enterprise Systems:** Custom ERP implementation and Software Architecture (Odoo/Python).
+* **Computer Vision & IoT:** Real-time surveillance systems and embedded sensor logic.
+* **Machine Learning:** Diagnostic classification and predictive analytics (SVM/Flask).
+
+## 🛠️ Tech Stack
+**Languages:** Python, C++, SQL, PowerShell  
+**Libraries:** Scikit-Learn, Pandas, NLTK, TensorFlow  
+**Tools:** Odoo ERP, Git, Linux/Bash
+
+---
+*I am currently focused on advancing my research in Computing & Software while contributing to technical operations in the GTA.*
