@@ -20,9 +20,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Subhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
+![Subhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubhanNayyar&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/subhan-nayyar-ai)
